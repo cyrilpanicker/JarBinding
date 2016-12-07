@@ -1,0 +1,8 @@
+BindingTest.MainActivity, BindingTest;md5c7179dfda6babd17e43a2f8949ca0dd7.MainActivity
+BindingTest.MainActivity, BindingTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c7179dfda6babd17e43a2f8949ca0dd7.MainActivity
+BindingTest.MainActivity;md5c7179dfda6babd17e43a2f8949ca0dd7.MainActivity
+bindingtest.MainActivity;md5c7179dfda6babd17e43a2f8949ca0dd7.MainActivity
+Com.Squareup.Picasso.Picasso/IListenerImplementor, JarBinding;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Com.Squareup.Picasso.Picasso+IListenerImplementor, JarBinding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Com.Squareup.Picasso.Picasso.IListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor
+mono.com.squareup.picasso.Picasso_ListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor

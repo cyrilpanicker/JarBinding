@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ICache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ICallback.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.IDownloader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ITarget.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.ITransformation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.LruCache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.MemoryPolicy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.NetworkPolicy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.Picasso.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.Request.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.RequestCreator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.RequestHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.StatsSnapshot.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Squareup.Picasso.UrlConnectionDownloader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

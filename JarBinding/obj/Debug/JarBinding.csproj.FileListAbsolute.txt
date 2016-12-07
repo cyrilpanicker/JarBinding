@@ -1,0 +1,9 @@
+D:\x\JarBinding\JarBinding\bin\Debug\JarBinding.dll
+D:\x\JarBinding\JarBinding\bin\Debug\JarBinding.pdb
+D:\x\JarBinding\JarBinding\obj\Debug\JarBinding.csprojResolveAssemblyReference.cache
+D:\x\JarBinding\JarBinding\obj\Debug\JarBinding.dll
+D:\x\JarBinding\JarBinding\obj\Debug\JarBinding.pdb
+D:\x\JarBinding\JarBinding\obj\Debug\JarBinding.dll.mdb
+D:\x\JarBinding\JarBinding\bin\Debug\JarBinding.dll.mdb
+D:\x\JarBinding\JarBinding\obj\Debug\JarBinding.dll.mdb
+D:\x\JarBinding\JarBinding\bin\Debug\JarBinding.dll.mdb
